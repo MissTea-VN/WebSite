@@ -929,7 +929,7 @@ a {
 }
 .cid-s8GUvxy8p2 .dropdown-menu,
 .cid-s8GUvxy8p2 .navbar.opened {
-  background: #ffffff !important;
+  background: scroll;
 }
 .cid-s8GUvxy8p2 .nav-item:focus,
 .cid-s8GUvxy8p2 .nav-link:focus {
@@ -960,7 +960,7 @@ a {
   margin: 0 !important;
 }
 .cid-s8GUvxy8p2 .navbar {
-  min-height: 70px;
+  height: 60px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
   background: rgba(255, 255, 255, 0.1);
